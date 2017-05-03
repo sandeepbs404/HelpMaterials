@@ -1,0 +1,2 @@
+IOC comparison
+https://cardinalcore.co.uk/2015/01/28/ioc-battle-in-2015-results-using-ninject-think-again/
