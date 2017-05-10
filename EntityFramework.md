@@ -50,3 +50,8 @@ IDbSet
 	
 	
 EntityFramework.Utilities
+
+
+Why we need to install EF even in UI Project)?
+http://stackoverflow.com/questions/21641435/error-no-entity-framework-provider-found-for-the-ado-net-provider-with-invarian
+
