@@ -55,3 +55,6 @@ EntityFramework.Utilities
 Why we need to install EF even in UI Project)?
 http://stackoverflow.com/questions/21641435/error-no-entity-framework-provider-found-for-the-ado-net-provider-with-invarian
 
+Performance Considerations
+https://msdn.microsoft.com/en-us/data/hh949853.aspx
+
